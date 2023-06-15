@@ -32,6 +32,7 @@ h2 {
 }
 
 .threevert {
+  height: 33.3%;
 }
 
 .threehoriz {
@@ -75,15 +76,15 @@ h2 {
   background-color: blue;
 }
 
-.lightblue {
-  background-color: lightblue;
+.light-blue {
+  background-color: #01A2DF;
 }
 
 .purple {
   background-color: purple;
 }
 
-.white {
+.white, #white {
   background-color: #fff;
 }
 
@@ -93,6 +94,10 @@ h2 {
 
 .poland-red {
   background-color: #DD0B39;
+}
+
+.luxembourg-red {
+  background-color: #ED2436;
 }
 
 /* BEGIN QUESTION 2 */
