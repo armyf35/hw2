@@ -103,15 +103,18 @@ h2 {
 /* BEGIN QUESTION 2 */
 
 .thailand-red {
-  /* TODO */
+  height: calc(100% / 6);
+  background-color: #A51931;
 }
 
 .thailand-white {
-  /* TODO */
+  height: calc(100% / 6);
+  background-color: #F4F5F8;
 }
 
 .thailand-blue {
-  /* TODO */
+  height: calc(100% / 3);
+  background-color: #2D2A4A;
 }
 
 /* END QUESTION 2 */
