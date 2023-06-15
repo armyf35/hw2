@@ -153,6 +153,19 @@ h2 {
   background-color: #ce1126;
 }
 
+/* END QUESTION 4 */
+
+/* QUESTION 5 */
+.label {
+  color: red
+}
+
+.label:hover {
+  transform: scale(150%);
+  color: orange;
+}
+/* END QUESTION 5 */
+
 /* QUESTION 6 */
 .margin-container {
   height: 300px;
